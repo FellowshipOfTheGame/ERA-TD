@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "243dfd4b-9533-4902-88c6-5cad76db09f0",
+            "Value": {
+                "id": "290f027a-6b08-4699-bc93-0e529b7d0cdd",
+                "resourcePath": "objects\\obj_long_shot_tower\\obj_long_shot_tower.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3673bc14-2976-41d4-ab8f-1b8a643adbd9",
             "Value": {
                 "id": "4e217886-9159-4024-807b-790f427ed647",
