@@ -1,28 +1,18 @@
 {
-    "id": "243dfd4b-9533-4902-88c6-5cad76db09f0",
+    "id": "9abd678d-47c7-4993-9832-55c3f5b56a9c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_long_shot_tower",
+    "name": "obj_ProjetilPadrao",
     "eventList": [
         {
-            "id": "5326d590-5b74-4c88-af69-7110195b7f36",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "243dfd4b-9533-4902-88c6-5cad76db09f0"
-        },
-        {
-            "id": "71febe0d-4ccd-4174-b845-8706056552d8",
+            "id": "d4ea156a-629d-4b0f-8131-692064179059",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "243dfd4b-9533-4902-88c6-5cad76db09f0"
+            "m_owner": "9abd678d-47c7-4993-9832-55c3f5b56a9c"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

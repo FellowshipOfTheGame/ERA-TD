@@ -1,28 +1,28 @@
 {
-    "id": "243dfd4b-9533-4902-88c6-5cad76db09f0",
+    "id": "ce75792c-3bf8-4ce8-9f2a-377db3981891",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_long_shot_tower",
+    "name": "obj_ProjetilSplash",
     "eventList": [
         {
-            "id": "5326d590-5b74-4c88-af69-7110195b7f36",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "243dfd4b-9533-4902-88c6-5cad76db09f0"
-        },
-        {
-            "id": "71febe0d-4ccd-4174-b845-8706056552d8",
+            "id": "e6974b04-ef22-48d7-b18e-83e8e26f6b8b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "243dfd4b-9533-4902-88c6-5cad76db09f0"
+            "m_owner": "ce75792c-3bf8-4ce8-9f2a-377db3981891"
+        },
+        {
+            "id": "c47e9109-7ab3-4fc8-a8fd-0a96ebfe3567",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "ce75792c-3bf8-4ce8-9f2a-377db3981891"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

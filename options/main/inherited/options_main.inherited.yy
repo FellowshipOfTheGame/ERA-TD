@@ -1,3 +1,3 @@
 1.0.0←ed6a955d-5826-4f98-a450-10b414266c27←ed6a955d-5826-4f98-a450-10b414266c27|{
-    "option_gameguid": "0f36b58e-fe70-412a-bb1c-0820990912e8"
+    "option_gameguid": "b8aa0924-73ad-4fd1-a299-2cd155a76ab6"
 }
