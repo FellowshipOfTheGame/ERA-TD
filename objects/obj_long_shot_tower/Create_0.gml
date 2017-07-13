@@ -1,6 +1,3 @@
-range = 5*32
-current_enemy = -1
-fire_ratio = 10.0
-tower_damage = 1
-//shot_image = sprite index
+event_inherited()
+range = 5*tower_range
 alarm[0] = fire_ratio
