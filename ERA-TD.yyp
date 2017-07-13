@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "9a2942a6-677f-4c70-8c7b-abc9d16be345",
+            "Value": {
+                "id": "b39271ac-fed3-46f2-887f-6398c3cc70b2",
+                "resourcePath": "objects\\deleteme2\\deleteme2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9b2d91fd-f7ce-4cf1-b5bc-9af2679af502",
             "Value": {
                 "id": "fac2f7c4-e68c-4080-85dc-08ffe4e36d37",
