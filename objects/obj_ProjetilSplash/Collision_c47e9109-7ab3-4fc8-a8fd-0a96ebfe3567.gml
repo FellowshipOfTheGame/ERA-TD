@@ -1,4 +1,4 @@
-//@collision with Enemy
+///@description collision with Enemy
   //Variaveis locais para quando houver colisao
 var xpos;
 var ypos;
