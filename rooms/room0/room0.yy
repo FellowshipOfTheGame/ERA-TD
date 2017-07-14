@@ -4,12 +4,13 @@
     "mvc": "1.0",
     "name": "room0",
     "IsDnD": false,
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        
+        "56fbacd5-9253-49e2-b0af-1e433d9a38cf",
+        "51141994-abaf-45e7-a9d5-5016e097ec88"
     ],
     "layers": [
         {
@@ -35,7 +36,54 @@
             "userdefined_depth": false,
             "visible": true,
             "instances": [
-                
+                {
+                    "id": "56fbacd5-9253-49e2-b0af-1e433d9a38cf",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_1070DA9E",
+                    "x": 1024,
+                    "y": 0,
+                    "IsDnD": false,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_1070DA9E",
+                    "objId": "0fc28ff0-7096-4767-b5a1-63676559ca49",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                },
+                {
+                    "id": "51141994-abaf-45e7-a9d5-5016e097ec88",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_57042655",
+                    "x": 1024,
+                    "y": 32,
+                    "IsDnD": false,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_57042655",
+                    "objId": "11c8c6b7-3085-4c2a-89df-0ce5bd6fdb65",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                }
             ]
         },
         {
@@ -63,7 +111,7 @@
             "animationFPS": 15,
             "animationSpeedType": 0,
             "colour": {
-                "Value": 4278190080
+                "Value": 4286545791
             },
             "hspeed": 0,
             "htiled": false,
