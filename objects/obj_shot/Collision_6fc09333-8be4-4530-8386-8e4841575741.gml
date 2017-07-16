@@ -1,5 +1,4 @@
 ///@description colision with enemy
-with(other){
+with(other)
 	instance_destroy()
-}
 instance_destroy()
