@@ -5,7 +5,7 @@
     "name": "obj_ControllerParent",
     "eventList": [
         {
-            "id": "515cbdb2-d5bc-491d-8d42-d1b7764a1c6a",
+            "id": "fd4c882b-bd07-445b-8639-775d3b01ffc6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

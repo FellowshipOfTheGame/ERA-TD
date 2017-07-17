@@ -5,7 +5,7 @@
     "name": "obj_long_shot_tower",
     "eventList": [
         {
-            "id": "71febe0d-4ccd-4174-b845-8706056552d8",
+            "id": "b9f65e62-64f3-490d-abe4-c3aa775d365d",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
