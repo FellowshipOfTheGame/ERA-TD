@@ -5,7 +5,7 @@
     "name": "obj_tower",
     "eventList": [
         {
-            "id": "f4a3b946-3816-4dbe-9ffb-02fa11dc7422",
+            "id": "ea29df6e-cf0e-464c-ae2c-f78dd87a67e8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "fc9af372-0ee7-418f-a7d7-92f80c1d9fa0"
         },
         {
-            "id": "6e4f52e3-da02-4ea7-99dc-81732c4ef07c",
+            "id": "e0119a1a-069a-459e-a99f-35c5c8ac279c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

@@ -5,7 +5,7 @@
     "name": "obj_shot",
     "eventList": [
         {
-            "id": "7c66ef94-b252-4f32-8389-fa6cf4ba2c94",
+            "id": "c415f5f3-af28-4997-b939-0ed2515190e3",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "2f515273-04f4-43ec-9007-c0c1566a82ef"
         },
         {
-            "id": "5e2e16b1-7cb9-4920-b2fa-5c16c2831bc8",
+            "id": "c07b8beb-65ee-470c-9399-561bcc6c6067",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

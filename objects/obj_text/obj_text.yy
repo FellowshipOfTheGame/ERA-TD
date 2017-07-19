@@ -5,7 +5,7 @@
     "name": "obj_text",
     "eventList": [
         {
-            "id": "a33906c6-3c46-48d5-94cf-e05e9eefe26c",
+            "id": "6fd71f6f-4428-43b2-b0ac-5bf806882cc8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "0f3b3204-1a13-4952-acd5-d58ccd1e3d09"
         },
         {
-            "id": "3e498538-4abc-4756-82f9-70428bb2ebe5",
+            "id": "65156814-caf1-4694-a360-5bf6267a2604",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

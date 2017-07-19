@@ -5,7 +5,7 @@
     "name": "obj_Pause",
     "eventList": [
         {
-            "id": "1ca04235-5646-404e-9ef5-3352fab5e41d",
+            "id": "06337e67-83b8-4269-928c-6b7e85d76667",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "11c8c6b7-3085-4c2a-89df-0ce5bd6fdb65"
         },
         {
-            "id": "6f15aa53-0476-479a-a4b6-e7b5f829285c",
+            "id": "a7d8c33a-6bb2-4d6c-bf8d-f102ec986d59",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -25,7 +25,7 @@
             "m_owner": "11c8c6b7-3085-4c2a-89df-0ce5bd6fdb65"
         },
         {
-            "id": "9b2c26d2-2c0b-4d4d-9e73-32b03a894fed",
+            "id": "db9e3612-baf8-4908-86c1-00ff8d9659fd",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

@@ -5,7 +5,7 @@
     "name": "obj_ProjetilSplash",
     "eventList": [
         {
-            "id": "e6974b04-ef22-48d7-b18e-83e8e26f6b8b",
+            "id": "e04a26d1-3d98-40d6-8baa-4776e1faac20",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "ce75792c-3bf8-4ce8-9f2a-377db3981891"
         },
         {
-            "id": "c47e9109-7ab3-4fc8-a8fd-0a96ebfe3567",
+            "id": "c7426fca-e73c-4932-a602-883869a0bf66",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

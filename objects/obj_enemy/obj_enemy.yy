@@ -5,7 +5,7 @@
     "name": "obj_enemy",
     "eventList": [
         {
-            "id": "a7ac5c15-b8b7-4a68-a049-9b6424024a87",
+            "id": "dbe19d19-99a1-4efa-9bec-d8fc883202ac",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "b074811a-5bd9-49f1-996a-32b8478821ac"
         },
         {
-            "id": "ca11f247-8675-4cfe-9daa-20cf95dddc5d",
+            "id": "a2d9b528-2086-4d7a-8484-4b5781910be5",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
