@@ -1,3 +1,4 @@
-if(position_meeting(x, y,obj_bullet)){
+/*if(position_meeting(x, y,obj_bullet)){
 	hp--;
 }
+*/

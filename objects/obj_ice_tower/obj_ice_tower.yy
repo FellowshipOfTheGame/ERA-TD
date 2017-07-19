@@ -1,22 +1,22 @@
 {
-    "id": "ce75792c-3bf8-4ce8-9f2a-377db3981891",
+    "id": "7a9b3b29-66a8-4086-8605-975d68e5aaa4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_ProjetilSplash",
+    "name": "obj_ice_tower",
     "eventList": [
         {
-            "id": "c7426fca-e73c-4932-a602-883869a0bf66",
+            "id": "db785ef8-f5ed-41e9-a7cf-553888ab10d7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "ce75792c-3bf8-4ce8-9f2a-377db3981891"
+            "eventtype": 0,
+            "m_owner": "7a9b3b29-66a8-4086-8605-975d68e5aaa4"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "2f515273-04f4-43ec-9007-c0c1566a82ef",
+    "parentObjectId": "fc9af372-0ee7-418f-a7d7-92f80c1d9fa0",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

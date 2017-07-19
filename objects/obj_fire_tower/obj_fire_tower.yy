@@ -1,22 +1,22 @@
 {
-    "id": "ce75792c-3bf8-4ce8-9f2a-377db3981891",
+    "id": "fb8cf4ad-4cb3-4476-a414-4456f86c1bce",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_ProjetilSplash",
+    "name": "obj_fire_tower",
     "eventList": [
         {
-            "id": "c7426fca-e73c-4932-a602-883869a0bf66",
+            "id": "020e07f9-7307-4aa0-a22a-9f20ae59a9a1",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "ce75792c-3bf8-4ce8-9f2a-377db3981891"
+            "eventtype": 0,
+            "m_owner": "fb8cf4ad-4cb3-4476-a414-4456f86c1bce"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "2f515273-04f4-43ec-9007-c0c1566a82ef",
+    "parentObjectId": "fc9af372-0ee7-418f-a7d7-92f80c1d9fa0",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
