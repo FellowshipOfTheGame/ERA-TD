@@ -4,4 +4,5 @@
 
 PlayerHP = 0;
 Money = 0;
+Spawn_Delay = 0;
 
