@@ -1,2 +1,2 @@
 ///@description setting shot speed
-speed = 20
+speed = 30
