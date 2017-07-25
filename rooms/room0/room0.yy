@@ -37,7 +37,7 @@
             "name": "Path_1",
             "userdefined_depth": false,
             "visible": true,
-            "pathId": "00000000-0000-0000-0000-000000000000"
+            "pathId": "cb669853-1de0-43e8-a001-5f4435719763"
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
@@ -185,11 +185,11 @@
             "animationFPS": 15,
             "animationSpeedType": 0,
             "colour": {
-                "Value": 4288256409
+                "Value": 4294967295
             },
             "hspeed": 0,
             "htiled": false,
-            "spriteId": "00000000-0000-0000-0000-000000000000",
+            "spriteId": "d0ac03ac-accf-4557-97e6-14b01767ae6a",
             "stretch": false,
             "userdefined_animFPS": false,
             "vspeed": 0,
@@ -213,8 +213,8 @@
         "id": "29a141cf-fdb3-4f00-bd3a-766ef7b7c003",
         "modelName": "GMRoomSettings",
         "mvc": "1.0",
-        "Height": 768,
-        "Width": 1024,
+        "Height": 1472,
+        "Width": 1970,
         "inheritRoomSettings": false,
         "persistent": false
     },

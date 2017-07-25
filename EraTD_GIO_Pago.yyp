@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "558a4157-9f56-49e1-b848-2f270e53ba00",
+            "Value": {
+                "id": "9970f5ec-134c-4eab-87a6-1a04ed883316",
+                "resourcePath": "sprites\\spr_long_shot_tower1\\spr_long_shot_tower1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6849982f-7874-4a5e-9745-113477f54416",
             "Value": {
                 "id": "0c511634-3dd6-43fe-bede-aeb148edcfdd",
@@ -132,6 +140,22 @@
                 "id": "332888d8-1b7a-4bd2-b321-0a911642b55c",
                 "resourcePath": "views\\6befba36-2cfe-4b8b-bf1f-f897db3a8671.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6db5f0e1-8144-4fb6-86f9-2b35ecf9ec2b",
+            "Value": {
+                "id": "7161ffb2-60de-431d-9805-0b23cf416498",
+                "resourcePath": "sprites\\spr_fire_tower1\\spr_fire_tower1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7189a096-6fa1-4aed-8714-c3d9c98818fb",
+            "Value": {
+                "id": "e148d09a-d739-4377-90c3-8f2765544efd",
+                "resourcePath": "sprites\\spr_fire_tower2\\spr_fire_tower2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -255,6 +279,14 @@
             }
         },
         {
+            "Key": "cb669853-1de0-43e8-a001-5f4435719763",
+            "Value": {
+                "id": "be66d60e-2df1-4bc6-8ecb-5e446cdbc26e",
+                "resourcePath": "paths\\path1\\path1.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "c0976c97-a48f-4407-bdab-c441c0c1036f",
@@ -276,6 +308,22 @@
                 "id": "1f75da07-d984-4aeb-8b50-632cef52d9da",
                 "resourcePath": "objects\\obj_ProjetilSplash\\obj_ProjetilSplash.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d0ac03ac-accf-4557-97e6-14b01767ae6a",
+            "Value": {
+                "id": "09f2c4c0-ba09-49de-a638-47ec05342b69",
+                "resourcePath": "sprites\\spr_background\\spr_background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d4055569-024d-4969-95b7-cef0bb88dbde",
+            "Value": {
+                "id": "9a90b366-f83f-4dcb-80a9-4cd60cba81ba",
+                "resourcePath": "sprites\\spr_ice_tower2\\spr_ice_tower2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -308,6 +356,22 @@
                 "id": "870c80a5-37f8-4b7b-bd01-a1e03db73091",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f4e35f08-8a17-48cd-ae22-7c61c623c1e3",
+            "Value": {
+                "id": "a6cbcc13-d26e-4b3c-9acb-cdd4a7483ad4",
+                "resourcePath": "sprites\\spr_long_shot_tower2\\spr_long_shot_tower2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f7930696-d19d-4427-9a91-19bded336881",
+            "Value": {
+                "id": "92f25160-57b5-4d8a-a9c5-31314799158a",
+                "resourcePath": "sprites\\spr_ice_tower1\\spr_ice_tower1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
