@@ -1,18 +1,18 @@
 {
-    "id": "243dfd4b-9533-4902-88c6-5cad76db09f0",
+    "id": "7a9b3b29-66a8-4086-8605-975d68e5aaa4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_long_shot_tower",
+    "name": "obj_ice_tower",
     "eventList": [
         {
-            "id": "b9f65e62-64f3-490d-abe4-c3aa775d365d",
+            "id": "db785ef8-f5ed-41e9-a7cf-553888ab10d7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "243dfd4b-9533-4902-88c6-5cad76db09f0"
+            "m_owner": "7a9b3b29-66a8-4086-8605-975d68e5aaa4"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

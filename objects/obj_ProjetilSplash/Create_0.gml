@@ -1,5 +1,3 @@
 /// Projetil Dano Em Area 
 
-direction = obj_TorreTeste.DirOfE; // Direcao para onde a torre estava apontando
-speed = obj_TorreTeste.Projetil_Speed;
-Dano = obj_TorreTeste.Projetil_Dano;
+speed = obj_long_shot_tower.Speed; //Velocidade do projetil
