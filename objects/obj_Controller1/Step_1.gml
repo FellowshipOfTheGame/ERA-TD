@@ -3,7 +3,7 @@ if(mouse_check_button_pressed(mb_left)){
 	if(tower_picked){
 		//positioning tower
 		if(Money >= picked_tower_cost){
-			instance_create_depth(mouse_x, mouse_y, depth, picked_tower)
+			instance_create_depth((mouse_x div 32)*32, (mouse_y div 32)*32, depth, picked_tower)
 			Money -= picked_tower_cost
 		}
 		tower_picked = false

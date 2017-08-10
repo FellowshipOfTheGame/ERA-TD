@@ -29,6 +29,6 @@ draw_sprite(spr_fire_tower1, 0, 984 ,1376)
 draw_sprite(spr_ice_tower1, 0, 1476 ,1376)
 if(tower_picked){
 	draw_set_color(c_black)
-	draw_sprite(picked_tower_sprite,0, mouse_x, mouse_y)
-	draw_circle(mouse_x, mouse_y, picked_tower_range, true)
+	draw_sprite(picked_tower_sprite,0, (mouse_x div 32)*32, (mouse_y div 32)*32)
+	draw_circle((mouse_x div 32)*32, (mouse_y div 32)*32, picked_tower_range, true)
 }
