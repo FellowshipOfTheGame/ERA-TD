@@ -15,9 +15,11 @@ ice_tower_cost = 30
 upgrade_cost = 100
 
 //Wave System (WS)
-Spawn_Delay = 7
+Spawn_Delay = 7;
 wave = 1;
-lim = 40 // Vai aumentar conforme uma funcao
-enmy_count = 0 // um contador 
-enemy = obj_enemy // variavel que guarda qual inimigo sera spawnado
-alarm[0] = 90 // Delay to begin
+lim = 20; // Vai aumentar conforme uma funcao
+enmy_count = 0; // um contador 
+enemy = obj_enemy_mummy; // variavel que guarda qual inimigo sera spawnado
+qty_one = 0;
+qty_two = 0;
+alarm[0] = 90; // Delay to begin
