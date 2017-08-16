@@ -3,7 +3,7 @@
 txt = instance_create_depth(argument2,argument3,depth,obj_text);
 with (txt){
 	//Declarando as variaveis
- centralizacao= 32;
+ centralizacao= 48;
  maxlength = view_wport[0];
  text = argument0;
  spd = argument1;

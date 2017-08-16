@@ -151,11 +151,27 @@
             }
         },
         {
+            "Key": "61739770-0710-4022-9482-2ceb817a5b52",
+            "Value": {
+                "id": "5c022511-092a-40f7-bbae-89a887f4fd65",
+                "resourcePath": "fonts\\fnt_menu\\fnt_menu.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "6849982f-7874-4a5e-9745-113477f54416",
             "Value": {
                 "id": "0c511634-3dd6-43fe-bede-aeb148edcfdd",
                 "resourcePath": "views\\6849982f-7874-4a5e-9745-113477f54416.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "68aa77b1-1f2a-4121-8cb1-5cd6d1437199",
+            "Value": {
+                "id": "16819193-3fd6-436a-891f-8664653ee0a8",
+                "resourcePath": "sprites\\spr_ArrowMenu\\spr_ArrowMenu.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -195,6 +211,14 @@
             "Value": {
                 "id": "70a6e4ca-80b0-4c76-98e7-8f35c9d2c981",
                 "resourcePath": "objects\\obj_ice_tower\\obj_ice_tower.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7ad51246-d248-4f7f-8b37-c7f75d60f114",
+            "Value": {
+                "id": "3e482631-8027-43bc-846e-18379ec23f5e",
+                "resourcePath": "objects\\obj_ControllerMenu\\obj_ControllerMenu.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -399,6 +423,22 @@
             }
         },
         {
+            "Key": "d52de3b0-0bb8-4dbe-828b-9b04dc389cf8",
+            "Value": {
+                "id": "6e7ef334-9627-4fa3-8a99-e64c9a2cfc79",
+                "resourcePath": "rooms\\rm_Menu\\rm_Menu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "dc1a3da3-00a6-4155-b3c8-484881b8e3b6",
+            "Value": {
+                "id": "5e9658c4-36d8-40c6-9c11-f286264a2cbf",
+                "resourcePath": "scripts\\scr_menu\\scr_menu.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "dcfc75c6-1a55-4adb-9cce-86bd9b7925c8",
             "Value": {
                 "id": "e7d49767-1051-45b8-89bc-946f5555e9e5",
@@ -481,7 +521,8 @@
     ],
     "script_order": [
         "c7894cdc-d309-4815-b8f9-82953e9c4801",
-        "42bd3b6e-47b4-442b-8afe-4087fb0b0972"
+        "42bd3b6e-47b4-442b-8afe-4087fb0b0972",
+        "dc1a3da3-00a6-4155-b3c8-484881b8e3b6"
     ],
     "tutorial": ""
 }
