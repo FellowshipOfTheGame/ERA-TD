@@ -37,7 +37,7 @@
             "name": "Path_1",
             "userdefined_depth": false,
             "visible": true,
-            "pathId": "cb669853-1de0-43e8-a001-5f4435719763"
+            "pathId": "39a67822-56bb-4447-b730-49c50accf289"
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
