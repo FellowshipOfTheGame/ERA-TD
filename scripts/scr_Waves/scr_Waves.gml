@@ -1,7 +1,7 @@
 switch (wave){ // se houver 15 waves, terao 15 casos
 	case 1:
 	{
-		enemy = obj_enemy;
+		enemy = obj_enemy_mummy;
 		break;
 	}
 	case 2:
