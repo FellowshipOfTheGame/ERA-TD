@@ -5,7 +5,7 @@
     "name": "obj_long_shot_tower",
     "eventList": [
         {
-            "id": "f3d2d25a-834b-47ec-832a-ef2bfe0043a2",
+            "id": "b9f65e62-64f3-490d-abe4-c3aa775d365d",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -16,7 +16,7 @@
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "63f3da48-3b4c-475f-98a7-1c1aec889e72",
+    "parentObjectId": "fc9af372-0ee7-418f-a7d7-92f80c1d9fa0",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -31,6 +31,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "558a4157-9f56-49e1-b848-2f270e53ba00",
     "visible": true
 }
