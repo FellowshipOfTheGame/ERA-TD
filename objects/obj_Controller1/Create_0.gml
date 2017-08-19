@@ -2,6 +2,8 @@
 event_inherited();
 finish = 0
 
+#macro grid_size 128
+
 //HP & Dinheiros
 PlayerHP = 100;
 Money = 200;
