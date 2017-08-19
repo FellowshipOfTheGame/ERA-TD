@@ -1,8 +1,3 @@
-/*if(position_meeting(x, y,obj_bullet)){
-	hp--;
-}
-*/
-
 if(x > lx){
 	sprite_index = camelo_side;
 	image_xscale = -scale;
