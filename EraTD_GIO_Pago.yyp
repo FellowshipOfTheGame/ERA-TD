@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "8dfbc589-f473-41e0-b70c-7c4bdd74455f",
+            "Value": {
+                "id": "982e9f3b-af98-438b-b5a7-4c49fea9138c",
+                "resourcePath": "objects\\obj_enemy_mummy\\obj_enemy_mummy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "91974f24-e4d6-4c3b-a1ae-4a23c1647835",
             "Value": {
                 "id": "0867f6a1-4323-4b40-bffb-4e0494788ab6",
