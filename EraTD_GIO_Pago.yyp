@@ -170,7 +170,7 @@
             "Key": "558a4157-9f56-49e1-b848-2f270e53ba00",
             "Value": {
                 "id": "9970f5ec-134c-4eab-87a6-1a04ed883316",
-                "resourcePath": "sprites\\spr_long_shot_tower1\\spr_long_shot_tower1.yy",
+                "resourcePath": "sprites\\spr_long_shot_tower2\\spr_long_shot_tower2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -322,7 +322,7 @@
             "Key": "89801cd1-86d4-4f0a-84d9-4a1c0ee3710d",
             "Value": {
                 "id": "7d17de2d-d366-451e-bceb-897e38fcc35b",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_Level1\\rm_Level1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -562,7 +562,7 @@
             "Key": "f4e35f08-8a17-48cd-ae22-7c61c623c1e3",
             "Value": {
                 "id": "a6cbcc13-d26e-4b3c-9acb-cdd4a7483ad4",
-                "resourcePath": "sprites\\spr_long_shot_tower2\\spr_long_shot_tower2.yy",
+                "resourcePath": "sprites\\spr_long_shot_tower1\\spr_long_shot_tower1.yy",
                 "resourceType": "GMSprite"
             }
         },
