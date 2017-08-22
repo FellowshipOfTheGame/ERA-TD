@@ -7,12 +7,12 @@ switch (wave){ // se houver 15 waves, terao 15 casos
 	case 2:
 	{
 		enemy = obj_enemy_camel
-		qtty = 20;
+		qtty = 10;
 		break;
 	}
 	case 3:
 	{
-		qtty = 30;
+		qtty = 20;
 	}
 	default:
 	{
