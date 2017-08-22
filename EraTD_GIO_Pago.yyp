@@ -159,6 +159,22 @@
             }
         },
         {
+            "Key": "46505756-bfd4-46db-b178-e9d981f64006",
+            "Value": {
+                "id": "55d68df5-296d-48a9-9f5d-000361ec63e7",
+                "resourcePath": "sounds\\snd_lvl1Theme\\snd_lvl1Theme.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "498dd402-532b-4318-9231-496113f5e6fd",
+            "Value": {
+                "id": "73a23df6-29b9-41ba-a819-411b8ebf8236",
+                "resourcePath": "objects\\obj_TimeMachine\\obj_TimeMachine.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4f159b4f-a56c-422a-a9e6-c98f73094471",
             "Value": {
                 "id": "d4849a1d-6d3c-457f-85b7-f0ebe75ca6ab",
@@ -235,6 +251,14 @@
             "Value": {
                 "id": "da7bbd4b-ec5c-4e9e-a269-a3c3fb8dabf8",
                 "resourcePath": "sprites\\mero_down\\mero_down.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6fb47caf-1c9c-428d-be35-8747a477d73e",
+            "Value": {
+                "id": "087aed0e-ba04-4396-b49e-aa3221439429",
+                "resourcePath": "sprites\\spr_TimeMachine\\spr_TimeMachine.yy",
                 "resourceType": "GMSprite"
             }
         },

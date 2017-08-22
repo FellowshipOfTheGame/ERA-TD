@@ -13,4 +13,4 @@ if (enmy_count <= lim) {
 else {
 	alarm[1] = 90
 }
-///WARNING: uso de recursao na linha 5, prestar atencao no que vai ser posto apos o if
+///WARNING: uso de recursao na linha 11, prestar atencao no que vai ser posto apos o if

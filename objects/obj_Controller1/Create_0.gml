@@ -22,6 +22,4 @@ wave = 1;
 lim = 20; // Vai aumentar conforme uma funcao
 enmy_count = 0; // um contador 
 enemy = obj_enemy_mummy; // variavel que guarda qual inimigo sera spawnado
-qty_one = 0;
-qty_two = 0;
 alarm[0] = 30; // Delay to begin
