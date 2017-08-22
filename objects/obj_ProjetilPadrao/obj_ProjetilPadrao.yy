@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_ProjetilPadrao",
     "eventList": [
-        
+        {
+            "id": "49555c3c-1d5e-4800-9499-4e2aff685800",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "9abd678d-47c7-4993-9832-55c3f5b56a9c"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "2f515273-04f4-43ec-9007-c0c1566a82ef",

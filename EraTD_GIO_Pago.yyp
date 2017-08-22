@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0354a9f7-975c-43f9-8f9d-f959af283b50",
+            "Value": {
+                "id": "14d577fe-f7b4-454d-90ad-5f81512d93fd",
+                "resourcePath": "sounds\\snd_step\\snd_step.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "06e575ad-4492-4449-9ec0-19714f51b2ca",
             "Value": {
                 "id": "0012521c-cff3-469d-bcdd-dce408d76f4f",
@@ -92,6 +100,14 @@
                 "id": "c69550af-7845-4832-aebf-5ab83ff8f9eb",
                 "resourcePath": "views\\174a56bc-0a2e-4f6f-a099-6f7f4e7c69a3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "17a156d0-269d-4381-a96c-7f35ea830ba8",
+            "Value": {
+                "id": "f06afe21-7308-408c-8545-e6328cf84466",
+                "resourcePath": "sounds\\snd_fire_shot\\snd_fire_shot.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -162,7 +178,7 @@
             "Key": "46505756-bfd4-46db-b178-e9d981f64006",
             "Value": {
                 "id": "55d68df5-296d-48a9-9f5d-000361ec63e7",
-                "resourcePath": "sounds\\snd_lvl1Theme\\snd_lvl1Theme.yy",
+                "resourcePath": "sounds\\snd_egypt\\snd_egypt.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -359,6 +375,14 @@
             }
         },
         {
+            "Key": "8d590125-8927-4a4f-8393-e7bbbb1a7eb7",
+            "Value": {
+                "id": "da5caac5-f2ac-4a52-b2e8-76bfa3b278f5",
+                "resourcePath": "sounds\\snd_shot\\snd_shot.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "8d961e7c-f451-496a-886c-af8bb7375600",
             "Value": {
                 "id": "592a471b-e236-4900-b846-c428137b9877",
@@ -460,6 +484,14 @@
                 "id": "80dda214-8e2e-4c32-a5f5-d4637f60a35d",
                 "resourcePath": "sprites\\mero_up\\mero_up.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b02ace65-192f-48e4-a4a8-22c7d7cdbe1d",
+            "Value": {
+                "id": "5909d604-67f8-4494-9913-b51d03fa0974",
+                "resourcePath": "sounds\\snd_ice_shot\\snd_ice_shot.yy",
+                "resourceType": "GMSound"
             }
         },
         {
