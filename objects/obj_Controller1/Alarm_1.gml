@@ -1,7 +1,10 @@
-/// @description Pause entre as waves e Resetando variaveis
-wave++
-scr_Waves();
-enmy_count = 0
-lim = qtty //aumenta conforme o valor no script
-if (wave == 1 || wave == 2) alarm[0] = 90 // Waves com apenas um tipo de inimigo
-else if (wave == 3) alarm[2] = 90 // waves com 2 tipos de inimigos
+/// @description Wave com 1 tipo de enmy
+if (enmy_count < qtty) {
+		instance_create_depth(x,y,depth,enemy);
+		enmy_count++;
+		alarm[1] = Spawn_Delay;
+} 
+else {
+	alarm[0] = 90
+}
+///WARNING: uso de recursao na linha 5, prestar atencao no que vai ser posto apos o if

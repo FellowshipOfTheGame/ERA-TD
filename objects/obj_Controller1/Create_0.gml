@@ -1,6 +1,9 @@
 //Inicializando Variaveis
 event_inherited();
 finish = 0
+alarm_list = 0;
+mute = 0;
+alarms = 3;
 
 #macro grid_size 128
 
@@ -17,9 +20,6 @@ ice_tower_cost = 30
 upgrade_cost = 100
 
 //Wave System (WS)
-Spawn_Delay = 30;
 wave = 1;
-lim = 20; // Vai aumentar conforme uma funcao
-enmy_count = 0; // um contador 
-enemy = obj_enemy_mummy; // variavel que guarda qual inimigo sera spawnado
-alarm[0] = 30; // Delay to begin
+scr_Waves(); 
+alarm[1] = 30; // Delay to begin

@@ -1,3 +1,5 @@
+if(global.pause == 1) path_speed = 0;
+else path_speed = spd;
 if(x > lx){
 	sprite_index = camelo_side;
 	image_xscale = -scale;

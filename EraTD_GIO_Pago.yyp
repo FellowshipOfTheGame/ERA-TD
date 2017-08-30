@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "53df58d0-d99d-4204-aa9f-1da5b4b89a2c",
+            "Value": {
+                "id": "791e6536-4c3e-40b3-a309-2ef87c135fda",
+                "resourcePath": "scripts\\scr_Pause_WIP\\scr_Pause_WIP.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "558a4157-9f56-49e1-b848-2f270e53ba00",
             "Value": {
                 "id": "9970f5ec-134c-4eab-87a6-1a04ed883316",
@@ -666,7 +674,8 @@
     "script_order": [
         "c7894cdc-d309-4815-b8f9-82953e9c4801",
         "42bd3b6e-47b4-442b-8afe-4087fb0b0972",
-        "dc1a3da3-00a6-4155-b3c8-484881b8e3b6"
+        "dc1a3da3-00a6-4155-b3c8-484881b8e3b6",
+        "53df58d0-d99d-4204-aa9f-1da5b4b89a2c"
     ],
     "tutorial": ""
 }
