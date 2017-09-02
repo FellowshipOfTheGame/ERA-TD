@@ -1,4 +1,4 @@
 /// @description colision with enemy
-other.speed = path.path_speed - slow
 other.alarm[0] = slow_duration
+other.slowed = true
 instance_destroy()

@@ -1,4 +1,5 @@
 if(global.pause == 1) path_speed = 0;
+else if (slowed) path_speed = slow;
 else path_speed = spd;
 if(x > lx){
 	sprite_index = camelo_side;
