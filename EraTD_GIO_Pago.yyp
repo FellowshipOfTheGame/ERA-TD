@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "5a79960e-5aab-4c07-92f7-f4923952e0a8",
+            "Value": {
+                "id": "6af4ab7f-f6b6-467e-90d5-593a4704256c",
+                "resourcePath": "objects\\mute\\mute.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5ab8acfd-f120-4ed6-aba1-7e44e31cc4cc",
             "Value": {
                 "id": "0e6d4fda-308c-49d0-9f93-3aa31e5aee93",
