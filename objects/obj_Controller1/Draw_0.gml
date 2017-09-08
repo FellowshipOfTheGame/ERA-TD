@@ -22,13 +22,7 @@ draw_set_halign(fa_left);
 draw_set_valign(fa_top);
 draw_text(x_comeco + 8, y_comeco + 4, "$ " + string(Money));
 
-//menu de torres
-if( global.draw_menu){
-	draw_rectangle_color(0,1280,room_width,room_height,c_white,c_olive,c_lime,c_yellow,false)
-	draw_sprite(spr_long_shot_tower1, 0, 492 ,1376)
-	draw_sprite(spr_fire_tower1, 0, 984 ,1376)
-	draw_sprite(spr_ice_tower1, 0, 1476 ,1376)
-}
+//torre no mouse
 if(draw_tower){
 	draw_circle(mouse_x,mouse_y,5*32,true)
 	draw_sprite(spr_parent_tower, 0,mouse_x,mouse_y)

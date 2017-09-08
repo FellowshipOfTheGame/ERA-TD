@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "1a72254e-3d88-4e96-a5ad-7b83bcedcc9d",
+            "Value": {
+                "id": "64ab5e41-4292-4a1f-9757-c293d332210f",
+                "resourcePath": "objects\\obj_buy_ice_tower\\obj_buy_ice_tower.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "243dfd4b-9533-4902-88c6-5cad76db09f0",
             "Value": {
                 "id": "7649ba7d-5b5e-4dba-9adf-baf8d73aa2a5",
@@ -580,6 +588,14 @@
                 "id": "ecf9521b-877a-438e-96f4-40b2794a9544",
                 "resourcePath": "scripts\\scr_TxtBox\\scr_TxtBox.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "cc403e81-43b3-467d-892c-8bb62749ae67",
+            "Value": {
+                "id": "1dbb389b-02bd-4edd-8880-c92dd5fc2c3b",
+                "resourcePath": "sprites\\spr_ice\\spr_ice.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

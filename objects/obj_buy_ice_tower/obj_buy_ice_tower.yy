@@ -1,32 +1,32 @@
 {
-    "id": "7a9b3b29-66a8-4086-8605-975d68e5aaa4",
+    "id": "1a72254e-3d88-4e96-a5ad-7b83bcedcc9d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_ice_tower",
+    "name": "obj_buy_ice_tower",
     "eventList": [
         {
-            "id": "db785ef8-f5ed-41e9-a7cf-553888ab10d7",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "7a9b3b29-66a8-4086-8605-975d68e5aaa4"
-        },
-        {
-            "id": "4037245b-fda9-4bad-81b3-b53d2f8f6cfc",
+            "id": "3ff482d0-ea0d-4c68-bdce-4be10a92fe42",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 4,
             "eventtype": 6,
-            "m_owner": "7a9b3b29-66a8-4086-8605-975d68e5aaa4"
+            "m_owner": "1a72254e-3d88-4e96-a5ad-7b83bcedcc9d"
+        },
+        {
+            "id": "d21f1f15-fa82-4d3c-b343-06bcd77a3c6f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "1a72254e-3d88-4e96-a5ad-7b83bcedcc9d"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "fc9af372-0ee7-418f-a7d7-92f80c1d9fa0",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -41,6 +41,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "f7930696-d19d-4427-9a91-19bded336881",
+    "spriteId": "cc403e81-43b3-467d-892c-8bb62749ae67",
     "visible": true
 }

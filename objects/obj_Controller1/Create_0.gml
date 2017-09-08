@@ -14,11 +14,11 @@ Money = 200;
 //Posicionando as torres e preço das torres
 global.draw_menu = false
 draw_tower = false
-picked_tower_cost = 0
 long_shot_tower_cost = 50
 fire_tower_cost = 60
-ice_tower_cost = 30
-upgrade_cost = 100
+#macro ice_tower_cost 30
+#macro upgrade_cost 100
+#macro tower_cost 50
 sell_tower = false
 
 //Wave System (WS)

@@ -5,7 +5,7 @@
     "name": "obj_buy_tower",
     "eventList": [
         {
-            "id": "0907b4b0-cbd6-4230-ba60-52cf5e0ab5b1",
+            "id": "0a6a626f-585d-45db-937b-8579a8373359",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
