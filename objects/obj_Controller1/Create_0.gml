@@ -12,6 +12,7 @@ PlayerHP = 100;
 Money = 200;
 
 //Posicionando as torres e preço das torres
+global.draw_menu = false
 tower_picked = false
 picked_tower_cost = 0
 long_shot_tower_cost = 50

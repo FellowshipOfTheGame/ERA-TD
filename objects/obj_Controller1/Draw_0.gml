@@ -23,12 +23,9 @@ draw_set_valign(fa_top);
 draw_text(x_comeco + 8, y_comeco + 4, "$ " + string(Money));
 
 //menu de torres
-draw_rectangle_color(0,1280,room_width,room_height,c_white,c_olive,c_lime,c_yellow,false)
-draw_sprite(spr_long_shot_tower1, 0, 492 ,1376)
-draw_sprite(spr_fire_tower1, 0, 984 ,1376)
-draw_sprite(spr_ice_tower1, 0, 1476 ,1376)
-if(tower_picked){
-	draw_set_color(c_black)
-	draw_sprite(picked_tower_sprite,0, (mouse_x div grid_size)*grid_size, (mouse_y div grid_size)*grid_size)
-	draw_circle((mouse_x div grid_size)*grid_size, (mouse_y div grid_size)*grid_size, picked_tower_range, true)
+if( global.draw_menu){
+	draw_rectangle_color(0,1280,room_width,room_height,c_white,c_olive,c_lime,c_yellow,false)
+	draw_sprite(spr_long_shot_tower1, 0, 492 ,1376)
+	draw_sprite(spr_fire_tower1, 0, 984 ,1376)
+	draw_sprite(spr_ice_tower1, 0, 1476 ,1376)
 }
