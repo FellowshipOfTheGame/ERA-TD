@@ -29,3 +29,7 @@ if( global.draw_menu){
 	draw_sprite(spr_fire_tower1, 0, 984 ,1376)
 	draw_sprite(spr_ice_tower1, 0, 1476 ,1376)
 }
+if(draw_tower){
+	draw_circle(mouse_x,mouse_y,5*32,true)
+	draw_sprite(spr_parent_tower, 0,mouse_x,mouse_y)
+}

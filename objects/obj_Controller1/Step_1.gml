@@ -1,14 +1,16 @@
 /// @description Positioning tower and upgrading
 if(mouse_check_button_pressed(mb_left)){
-	if(tower_picked){
-		//positioning tower
-		if(Money >= picked_tower_cost){
-			instance_create_depth((mouse_x div grid_size)*grid_size, (mouse_y div grid_size)*grid_size, depth, picked_tower)
-			Money -= picked_tower_cost
+	if(draw_tower){
+		var aux
+		#macro tower_cost 50
+		if(obj_Controller1.Money >= tower_cost){
+			aux = instance_create_depth(mouse_x,mouse_y,depth,obj_parent_tower)
+			if(script_execute(scr_Put_tower,aux))
+				obj_Controller1.Money -= tower_cost
 		}
-		tower_picked = false
+		draw_tower = false
 	}else{
-		//upgrading tower
+/*		//upgrading tower
 		tower = collision_point(mouse_x,mouse_y,obj_tower,false,true)
 		if(tower != noone){
 			if(Money >= upgrade_cost){
@@ -42,6 +44,6 @@ if(mouse_check_button_pressed(mb_left)){
 					}
 				}
 			}
-		}
+		}*/
 	}
 }

@@ -1,18 +1,18 @@
 {
-    "id": "a313d70d-f480-4b08-961a-7724ec631336",
+    "id": "65e92c04-978c-4865-9824-e0a5c32855da",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_buy_tower",
+    "name": "obj_sell",
     "eventList": [
         {
-            "id": "0907b4b0-cbd6-4230-ba60-52cf5e0ab5b1",
+            "id": "13c14860-7478-4b2b-b195-6c4d4bb5b9ec",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 4,
             "eventtype": 6,
-            "m_owner": "a313d70d-f480-4b08-961a-7724ec631336"
+            "m_owner": "65e92c04-978c-4865-9824-e0a5c32855da"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -31,6 +31,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "e73d8175-1b93-4dce-ab28-c8dd054af3a0",
+    "spriteId": "a3bf7ba6-9be4-4800-9874-e04bca96b163",
     "visible": true
 }
