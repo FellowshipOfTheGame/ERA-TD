@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "52b64485-a1f1-4644-987b-57983afecd50",
+            "Value": {
+                "id": "f1566204-80ea-4f56-b6ce-dfafd2dc9657",
+                "resourcePath": "objects\\obj_buy_fire_shot\\obj_buy_fire_shot.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "53df58d0-d99d-4204-aa9f-1da5b4b89a2c",
             "Value": {
                 "id": "791e6536-4c3e-40b3-a309-2ef87c135fda",
@@ -583,6 +591,14 @@
             }
         },
         {
+            "Key": "c49ba402-7053-48d8-93c2-8c74575d1a00",
+            "Value": {
+                "id": "9ea84a16-5289-4bdd-8141-83df426365a0",
+                "resourcePath": "sprites\\spr_fire\\spr_fire.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c7894cdc-d309-4815-b8f9-82953e9c4801",
             "Value": {
                 "id": "ecf9521b-877a-438e-96f4-40b2794a9544",
@@ -612,6 +628,14 @@
                 "id": "930a6611-6c23-4851-8192-d3242829ab3b",
                 "resourcePath": "views\\ce3c2b34-231e-435e-a563-d74dc5cd0fc0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ce58e303-4031-4730-ba67-c9366c1d9c80",
+            "Value": {
+                "id": "ab5b88a6-1f64-4d87-83cc-5f39ffa76ff6",
+                "resourcePath": "objects\\obj_buy_damage_tower\\obj_buy_damage_tower.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -691,6 +715,14 @@
             "Value": {
                 "id": "80a30b9f-4188-41e0-93b0-b9d880d95ca5",
                 "resourcePath": "sprites\\spr_parent\\spr_parent.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eebed8cb-b553-43b5-84f7-90223f661e7e",
+            "Value": {
+                "id": "9b6c0944-f167-48eb-98d5-dd702c4ce18c",
+                "resourcePath": "sprites\\spr_damage\\spr_damage.yy",
                 "resourceType": "GMSprite"
             }
         },

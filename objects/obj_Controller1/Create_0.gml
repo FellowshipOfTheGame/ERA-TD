@@ -14,8 +14,8 @@ Money = 200;
 //Posicionando as torres e preço das torres
 global.draw_menu = false
 draw_tower = false
-long_shot_tower_cost = 50
-fire_tower_cost = 60
+#macro long_shot_tower_cost 50
+#macro fire_tower_cost 60
 #macro ice_tower_cost 30
 #macro upgrade_cost 100
 #macro tower_cost 50

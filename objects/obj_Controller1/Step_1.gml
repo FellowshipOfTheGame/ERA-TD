@@ -1,4 +1,4 @@
-/// @description Positioning tower and upgrading
+/// @description Positioning tower
 if(mouse_check_button_pressed(mb_left)){
 	if(draw_tower){
 		var aux
@@ -10,4 +10,6 @@ if(mouse_check_button_pressed(mb_left)){
 		}
 		draw_tower = false
 	}
+}else if(keyboard_check_pressed(vk_space)){
+	draw_tower = false
 }
