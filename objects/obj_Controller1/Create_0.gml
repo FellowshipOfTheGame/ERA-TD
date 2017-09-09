@@ -5,7 +5,7 @@ alarm_list = 0;
 mute = 0;
 alarms = 3;
 
-#macro grid_size 128
+#macro grid_size 64
 
 //HP & Dinheiros
 PlayerHP = 100;
