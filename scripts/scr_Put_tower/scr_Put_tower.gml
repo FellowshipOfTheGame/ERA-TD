@@ -5,6 +5,8 @@ with(argument0){
 		instance_destroy()
 		return false
 	}else{
+		if(!place_snapped(grid_size,grid_size))
+			move_snap(grid_size,grid_size)
 		return true
 	}
 }
