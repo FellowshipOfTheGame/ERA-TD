@@ -23,7 +23,15 @@ draw_set_valign(fa_top);
 draw_text(x_comeco + 8, y_comeco + 4, "$ " + string(Money));
 
 //torre no mouse
+draw_set_color(c_black)
 if(draw_tower){
+	draw_set_alpha(0.5)
 	draw_circle(mouse_x,mouse_y,5*32,true)
 	draw_sprite(spr_parent_tower, 0,mouse_x,mouse_y)
 }
+
+//torre selecionada
+if(global.draw_menu){
+	draw_circle(global.tower_picked.x, global.tower_picked.y, global.tower_picked.range, true)
+}
+draw_set_alpha(1)

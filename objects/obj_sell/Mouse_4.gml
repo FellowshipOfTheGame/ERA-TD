@@ -1,4 +1,4 @@
-if(global.draw_menu){
+if(visible){
 	with (global.tower_picked){
 		instance_destroy()
 	}
