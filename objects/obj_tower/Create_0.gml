@@ -1,6 +1,6 @@
-#macro tower_range 32
+#macro tower_range 48
 #macro tower_fire_ratio 10
-#macro tower_damage 10
+#macro tower_damage 4
 
 range = tower_range
 current_enemy = noone

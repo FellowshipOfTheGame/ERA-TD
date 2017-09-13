@@ -31,7 +31,7 @@ if(draw_tower){
 }
 
 //torre selecionada
-if(global.draw_menu){
+if(global.draw_menu && instance_exists(global.tower_picked)){
 	draw_circle(global.tower_picked.x, global.tower_picked.y, global.tower_picked.range, true)
 }
 draw_set_alpha(1)
